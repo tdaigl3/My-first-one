@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "My first one",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 431643,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9869791666666666,
+            "y": 0.5,
+            "uniqueID": 218477,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
